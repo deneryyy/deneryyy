@@ -5,4 +5,4 @@ Russian is my native lanuage, tho I am fluent in english too.
 You can contact me in discord: `@roryne`
 
 P.S.
-I also have an [old github account](https://github.com/maestro-denery) I've lost an access to, but stuff I made there is unimportant.
+I also have an [old github account](https://github.com/maestro-denery) I've lost an access to
