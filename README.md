@@ -1,6 +1,5 @@
-## Daniel Dorofeev AKA Denery
-I've been learning Java and its infrastructure since the beginning of 2021. \
-Russian is my native lanuage, tho I am fluent in english too.
+## Denery AKA Kyspal (music pseudonym)
+I am 18 years old russian content creator. I produce electronic music, I do graphics programming, game development, and lots of other stuff.
 
 You can contact me in discord: `@roryne`
 
