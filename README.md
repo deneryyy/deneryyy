@@ -1,4 +1,4 @@
-## Denery AKA Kyspal (music pseudonym)
+## Denery
 I am 18 years old russian content creator. I produce electronic music, I do graphics programming, game development, and lots of other stuff.
 
 You can contact me in discord: `@roryne`
